@@ -15,7 +15,7 @@ O usuário pode escolher uma categoria específica ou deixar o acaso decidir com
 
 ## 🎯 Objetivo do Projeto
 
-Esse projeto foi desenvolvido com o propósito de **reforçar e praticar conceitos de CSS e JavaScript**, aplicando-os em um caso real de uso.
+Esse projeto foi desenvolvido com o propósito de **reforçar e praticar conceitos de CSS** e **JavaScript**, aplicando-os em um caso real de uso.
 
 O foco principal foi:
 
@@ -28,6 +28,6 @@ O foco principal foi:
 
 ## 📸 Demonstração
 
-[Prévia do projeto](./preview.png)
+<img src="./preview.png" alt="preview" height="400" />
 
 ---

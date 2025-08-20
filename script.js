@@ -82,20 +82,29 @@ function desafioAcaso() {
   return pegarDesafio(categoriaAleatoria);
 }
 
+function atualizarTexto(novoTexto) {
+  resultadoTexto.style.opacity = 0;
+
+  setTimeout(() => {
+    resultadoTexto.textContent = novoTexto;
+    resultadoTexto.style.opacity = 1;
+  }, 200);
+}
+
 const resultadoTexto = document.querySelector(".resultado-texto");
 
 document.getElementById("corpo").addEventListener("click", () => {
-  resultadoTexto.textContent = pegarDesafio("corpo");
+  atualizarTexto(pegarDesafio("corpo"));
 });
 
 document.getElementById("mente").addEventListener("click", () => {
-  resultadoTexto.textContent = pegarDesafio("mente");
+  atualizarTexto(pegarDesafio("mente"));
 });
 
 document.getElementById("vida").addEventListener("click", () => {
-  resultadoTexto.textContent = pegarDesafio("vida");
+  atualizarTexto(pegarDesafio("vida"));
 });
 
 document.getElementById("acaso").addEventListener("click", () => {
-  resultadoTexto.textContent = desafioAcaso();
+  atualizarTexto(desafioAcaso());
 });

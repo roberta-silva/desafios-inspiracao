@@ -3,6 +3,8 @@
 Um site interativo que sugere frases e desafios motivacionais para inspirar corpo, mente, vida social e satisfação pessoal.  
 O usuário pode escolher uma categoria específica ou deixar o acaso decidir com uma sugestão aleatória.
 
+👉 [Acesse aqui!!](https://roberta-silva.github.io/desafios-inspiracao/)
+
 ---
 
 ## 🚀 Tecnologias Utilizadas

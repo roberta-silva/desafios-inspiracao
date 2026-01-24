@@ -1,35 +1,44 @@
-# 🌟 Inspiração do Dia
+# Inspiração do Dia 🌟
 
-Um site interativo que sugere frases e desafios motivacionais para inspirar corpo, mente, vida social e satisfação pessoal.  
-O usuário pode escolher uma categoria específica ou deixar o acaso decidir com uma sugestão aleatória.
+Aplicação web interativa que gera desafios e mensagens motivacionais curtas, pensadas para incentivar ações positivas no dia a dia.
+O usuário pode escolher uma categoria específica ou receber uma sugestão aleatória, tornando a experiência simples e dinâmica.
 
-👉 [Acesse aqui!!](https://roberta-silva.github.io/desafios-inspiracao/)
+### 👉 Acesse o projeto: 
+[https://roberta-silva.github.io/desafios-inspiracao/](https://roberta-silva.github.io/desafios-inspiracao/)
 
----
 
-## 🚀 Tecnologias Utilizadas
+## 🔹 Funcionalidades
+- Geração de desafios motivacionais por categoria
+- Opção de sugestão aleatória
+- Interface simples, intuitiva e responsiva
+- Conteúdo exibido dinamicamente sem recarregar a página
+
+
+## 🔹 Tecnologias Utilizadas
 
 - **HTML5** → estrutura da página
 - **CSS3** → estilização, layout responsivo e foco no aprimoramento das boas práticas
-- **JavaScript (ES6+)** → lógica para gerar frases aleatórias e filtradas por categoria
+- **JavaScript** → lógica de geração aleatória, filtros por categoria e manipulação do DOM
 
----
 
-## 🎯 Objetivo do Projeto
 
-Esse projeto foi desenvolvido com o propósito de **reforçar e praticar conceitos de CSS** e **JavaScript**, aplicando-os em um caso real de uso.
+## 🔹 Objetivo do Projeto
 
-O foco principal foi:
+Projeto desenvolvido com foco em prática e consolidação de fundamentos de frontend, especialmente:
 
-- Melhorar a **organização do layout com CSS** (responsividade, hierarquia visual e usabilidade).
-- Trabalhar com **estilos personalizados** para criar uma experiência agradável ao usuário.
-- Exercitar a manipulação do DOM em
-  **JavaScript** para exibir frases dinâmicas.
 
----
+- Estruturação e organização de layout com CSS
+- Criação de uma experiência visual agradável e usável
+- Manipulação do DOM com JavaScript puro
+- Aplicação de lógica para conteúdo dinâmico
 
-## 📸 Demonstração
 
-<img src="./preview.png" alt="preview" height="400" />
+## 🔹 Preview
 
----
+<img src="./preview.png" alt="preview" height="300" />
+
+
+
+
+
+

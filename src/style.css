@@ -101,16 +101,16 @@ h1 span {
     );
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   h1 {
-    margin: 40px;
+    margin: 32px;
   }
   .resultado-texto {
-    margin: 0px 40px;
+    margin: 0px 32px;
   }
   .opcoes {
-    margin: 0 40px 40px 40px;
-    gap: 12px;
+    margin: 0 32px 32px 32px;
+    gap: 8px;
   }
   .btn {
     font-size: 0.875rem;
